@@ -1,6 +1,6 @@
 # RUIPTV
 
-![Логотип](https://imgur.com/aFphFSO)
+![](https://imgur.com/aFphFSO)
 
 Смотрите любимые теле- и радиоканалы с любой точки мира!
 
