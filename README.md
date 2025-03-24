@@ -1,6 +1,6 @@
 # RUIPTV
 
-![](https://imgur.com/aFphFSO)
+![](https://i.imgur.com/aFphFSO.png)
 
 Смотрите любимые теле- и радиоканалы с любой точки мира!
 
