@@ -1,5 +1,7 @@
 # RUIPTV
 
+![Логотип](https://imgur.com/a/8eHCfnR)
+
 Смотрите любимые теле- и радиоканалы с любой точки мира!
 
 ![Static Badge](https://img.shields.io/badge/%D1%81%D0%BE%D0%B2%D0%BC%D0%B5%D1%81%D1%82%D0%B8%D0%BC%D0%BE_%D1%81-VLC-orange) ![Static Badge](https://img.shields.io/badge/%D1%81%D0%BE%D0%B2%D0%BC%D0%B5%D1%81%D1%82%D0%B8%D0%BC%D0%BE_%D1%81-IPTV_Stream_Player-blue) ![Static Badge](https://img.shields.io/badge/%D1%81%D0%BE%D0%B2%D0%BC%D0%B5%D1%81%D1%82%D0%B8%D0%BC%D0%BE_%D1%81-5KPlayer-4477FF) ![Static Badge](https://img.shields.io/badge/%D1%81%D0%BE%D0%B2%D0%BC%D0%B5%D1%81%D1%82%D0%B8%D0%BC%D0%BE_%D1%81-Megacubo-5C3187)
